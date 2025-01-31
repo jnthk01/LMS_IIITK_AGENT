@@ -2,6 +2,29 @@
 
 This repository helps you interact with your LMS data, perform queries, and interact with PDF/PPT documents using the Multi-Model Retrieval-Augmented Generation (RAG) approach.
 
+## Demo Images
+
+### 1. Expanded Content
+![Expanded Content](./images/EXPANDED_CONTENT.png)
+
+### 2. List of All Subjects
+![List of All Subjects](./images/LIST_OF_ALL_SUBJECTS.png)
+
+### 3. List of Events
+![List of Events](./images/LIST_OF_EVENTS.png)
+
+### 4. Login Page
+![Login](./images/LOGIN.png)
+
+### 5. Non-Extended Contents
+![Non-Extended Contents](./images/NON_EXTENDED_CONTENTS.png)
+
+### 6. Particular Subject Name Search
+![Particular Subject Name Search](./images/PARTICULAR_SUBJECT_NAME_SEARCH.png)
+
+### 7. RAG Query
+![RAG Query](./images/RAG_QUERY.png)
+
 ## Steps to Get Started
 
 ### 1. Clone the Repository
